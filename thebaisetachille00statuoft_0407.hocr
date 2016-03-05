@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thebaisetachille00statuoft_0407.png"; bbox 0 0 1942 3184; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 367 1185 1814 1376">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 367 1185 1814 1376">
+     <span class='ocr_line' id='line_1_1' title="bbox 587 1185 1591 1248; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 587 1186 884 1248; x_wconf 59' lang='lat' dir='ltr'>mense</span> <span class='ocrx_word' id='word_1_2' title='bbox 915 1185 1031 1248; x_wconf 78' lang='lat'><strong>00</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1063 1185 1232 1247; x_wconf 87' lang='grc' dir='ltr'><strong>ΝΟΤ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1261 1185 1591 1247; x_wconf 72' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 367 1313 1814 1376; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 367 1313 641 1375; x_wconf 67' lang='lat' dir='ltr'>omos</span> <span class='ocrx_word' id='word_1_6' title='bbox 662 1313 775 1375; x_wconf 73' lang='grc' dir='ltr'><strong>ΟΒ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 795 1314 1017 1376; x_wconf 68' lang='lat' dir='ltr'><strong>stws</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1037 1313 1264 1376; x_wconf 62' lang='lat' dir='ltr'><strong>fnum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1284 1313 1469 1376; x_wconf 70' lang='lat' dir='ltr'><strong>‘mus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1489 1313 1814 1375; x_wconf 78' lang='grc' dir='ltr'><strong>ΡΟΟΚΕΤ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 370 1537 1905 1650">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 370 1537 1905 1650">
+     <span class='ocr_line' id='line_1_3' title="bbox 370 1537 1905 1650; baseline -0.001 -28"><span class='ocrx_word' id='word_1_11' title='bbox 370 1537 840 1622; x_wconf 61' lang='grc' dir='ltr'>υηινεπειτν</span> <span class='ocrx_word' id='word_1_12' title='bbox 888 1561 992 1622; x_wconf 69' lang='grc' dir='ltr'><strong>οε</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1033 1561 1434 1623; x_wconf 69' lang='grc' dir='ltr'>τοηοκτο</span> <span class='ocrx_word' id='word_1_14' title='bbox 1476 1561 1814 1623; x_wconf 66' lang='lat' dir='ltr'><em>mamm!</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1901 1646 1905 1650; x_wconf 8' lang='grc' dir='ltr'><strong>ᾖ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
